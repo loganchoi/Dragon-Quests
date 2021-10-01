@@ -44,5 +44,5 @@ if __name__ == "__main__":
         if col >= 39:
                 print("CONGRATS")
         if death == True:
-                print("YOU DEAD BITCH")
+                print("YOU DIED")
         
